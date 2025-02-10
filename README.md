@@ -1,22 +1,24 @@
-# Rifqi's Portfolio
+# Rifqi's Portfolio  
 
-# [Project 1 : Hotel Booking Demand Analysis](https://github.com/rifqinurpermadi/Hotel-Booking-Demand-Analysis)
-This project is done for **RevoU Final Project**, and our group, with **91.25/100 (A)** as the final grade. The data was obtained from Kaggle.  
+## [Project 1: Hotel Booking Demand Analysis](https://github.com/rifqinurpermadi/Hotel-Booking-Demand-Analysis)  
+This project was completed as part of the **RevoU Final Project**, where our group achieved a final grade of **91.25/100 (A)**. The dataset was sourced from Kaggle.  
 
-Task Done : 
-- Clustering the causes of the high cancellation rate at city hotel bookings with Root Cause Analysis (RCA)
-- Analyzing ways to reduce the booking cancellation rate at city hotels
-- Creating analytical [dashboard](https://lookerstudio.google.com/u/0/reporting/4e7aa8d1-d1dd-43bf-bf2a-5f2ab064096d/page/p_1fhi72gmad) with Looker Studio
+### Key Tasks:  
+- Identified the causes of high cancellation rates in city hotel bookings using **Root Cause Analysis (RCA)**.  
+- Analyzed strategies to reduce the booking cancellation rate at city hotels.  
+- Developed an **analytical dashboard** using [Looker Studio](https://lookerstudio.google.com/u/0/reporting/4e7aa8d1-d1dd-43bf-bf2a-5f2ab064096d/page/p_1fhi72gmad).  
 
-[Final Report](https://drive.google.com/file/d/1Gp8292XKFEBbfoPvq4D43DpbtBf7fEKU/view)
+📄 **[Final Report](https://drive.google.com/file/d/1Gp8292XKFEBbfoPvq4D43DpbtBf7fEKU/view)**  
 
-# [Project 2 : Sentiment Analysis](https://github.com/rifqinurpermadi/Sentiment-Analysis)
-The data was obtained through Twitter data crawling.
+---
 
-Task Done : 
-- Crawling data on Twitter using the Tweet Harvest API
-- Labeling sentiment for each tweet using a lexicon-based approach
-- Building an accurate and reliable sentiment analysis model to evaluate public sentiment in response to the second 2024 Presidential and Vice-Presidential debate
-- Building a [dashboard](https://lookerstudio.google.com/u/0/reporting/d7ddc925-e23b-456b-91fe-9baa877af4a0/page/Ues9D) for the analysis of the second debate and Debate 2 Sentiment Prediction using Support Vector Machine
+## [Project 2: Sentiment Analysis](https://github.com/rifqinurpermadi/Sentiment-Analysis)  
+This project analyzes public sentiment regarding the **2024 Indonesian Presidential and Vice Presidential Second Debate** on X/Twitter. The data was collected via Twitter data crawling.  
 
-[Final Report](https://drive.google.com/file/d/1Mz2aFy9lxcVTfNYBce83OpJdmLZGyc3l/view)
+### Key Tasks:  
+- Extracted Twitter data using the **Tweet Harvest API**.  
+- Labeled tweet sentiment using a **lexicon-based approach**.  
+- Built an **accurate and reliable sentiment analysis model** to assess public responses to the debate.  
+- Developed a **dashboard** for sentiment analysis and prediction using **Support Vector Machine (SVM)** in [Looker Studio](https://lookerstudio.google.com/u/0/reporting/d7ddc925-e23b-456b-91fe-9baa877af4a0/page/Ues9D).  
+
+📄 **[Final Report](https://drive.google.com/file/d/1Mz2aFy9lxcVTfNYBce83OpJdmLZGyc3l/view)**  
