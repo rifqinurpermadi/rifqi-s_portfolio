@@ -29,10 +29,8 @@ The **CRISP-DM** framework was used in this project, consisting of:
 1. **Business Understanding** – Identifying key research questions and objectives.  
 2. **Data Understanding** – Collecting and preprocessing Twitter data.  
 3. **Data Preparation** – Cleaning and labeling tweets for sentiment analysis.  
-4. **Modeling** –  
-   In this stage, sentiment prediction models were built using three different algorithms: **Naive Bayes, Support Vector Machine (SVM), and Random Forest**. The best-performing model was selected based on accuracy for further evaluation and deployment. The experiment was conducted using three different train-test ratios: **80%-20%, 70%-30%, and 60%-40%**.  
-5. **Evaluation** –  
-   In this stage, the best-performing model was evaluated using the test data with the highest accuracy. The **SVM model with an 80%-20% train-test ratio** achieved the highest accuracy and was selected for further analysis and deployment.  
+4. **Modeling** – In this stage, sentiment prediction models were built using three different algorithms: **Naive Bayes, Support Vector Machine (SVM), and Random Forest**. The best-performing model was selected based on accuracy for further evaluation and deployment. The experiment was conducted using three different train-test ratios: **80%-20%, 70%-30%, and 60%-40%**.  
+5. **Evaluation** – In this stage, the best-performing model was evaluated using the test data with the highest accuracy. The **SVM model with an 80%-20% train-test ratio** achieved the highest accuracy and was selected for further analysis and deployment.  
 6. **Deployment** – Visualizing sentiment analysis results through an interactive dashboard.  
 
 ### Visualizations:  
